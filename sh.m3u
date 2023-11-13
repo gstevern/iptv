@@ -59,7 +59,7 @@ http://117.135.56.6:6060/cms001/ch00000090990000001328/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001240/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15HD
 http://117.135.56.6:6060/cms001/ch00000090990000001338/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K",CCTV-16HD
+#EXTINF:-1 tvg-id="31" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16HD
 http://117.135.56.6:6060/cms001/ch00000090990000001258/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17HD
 http://117.135.56.6:6060/cms001/ch00000090990000001241/index.m3u8
@@ -123,81 +123,79 @@ http://117.135.56.6:6060/cms001/ch00000090990000001223/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001224/index.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001074/index.m3u8
-#EXTINF:-1 tvg-id="60" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
+#EXTINF:-1 tvg-id="63" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001065/index.m3u8
-#EXTINF:-1 tvg-id="63" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
+#EXTINF:-1 tvg-id="64" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001072/index.m3u8
-#EXTINF:-1 tvg-id="64" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视HD
+#EXTINF:-1 tvg-id="65" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视HD
 http://117.135.56.6:6060/cms001/ch00000090990000001225/index.m3u8
-#EXTINF:-1 tvg-id="65" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
+#EXTINF:-1 tvg-id="66" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001066/index.m3u8
-#EXTINF:-1 tvg-id="66" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
+#EXTINF:-1 tvg-id="67" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001185/index.m3u8
-#EXTINF:-1 tvg-id="67" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视HD
+#EXTINF:-1 tvg-id="68" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视HD
 http://117.135.56.6:6060/cms001/ch00000090990000001028/index.m3u8
-#EXTINF:-1 tvg-id="68" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="上海",都市剧场HD
+#EXTINF:-1 tvg-id="69" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="上海",都市剧场HD
 http://117.135.56.6:6060/cms001/ch00000090990000001203/index.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K",欢笑剧场HD
+#EXTINF:-1 tvg-id="70" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K",欢笑剧场HD
 http://117.135.56.6:6060/cms001/ch00000090990000001193/index.m3u8
-#EXTINF:-1 tvg-id="70" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png" group-title="上海",金色学堂
+#EXTINF:-1 tvg-id="71" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png" group-title="上海",金色学堂
 http://117.135.56.6:6060/cms001/ch00000090990000001194/index.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/法治天地.png" group-title="上海",法治天地HD
+#EXTINF:-1 tvg-id="72" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/法治天地.png" group-title="上海",法治天地HD
 http://117.135.56.6:6060/cms001/ch00000090990000001195/index.m3u8
-#EXTINF:-1 tvg-id="72" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="上海",动漫秀场HD
+#EXTINF:-1 tvg-id="73" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="上海",动漫秀场HD
 http://117.135.56.6:6060/cms001/ch00000090990000001196/index.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云HD
+#EXTINF:-1 tvg-id="74" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云HD
 http://117.135.56.6:6060/cms001/ch00000090990000001192/index.m3u8
-#EXTINF:-1 tvg-id="74" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="上海",乐游
+#EXTINF:-1 tvg-id="75" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="上海",乐游
 http://117.135.56.6:6060/cms001/ch00000090990000001200/index.m3u8
-#EXTINF:-1 tvg-id="75" tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影",CHC家庭影院
+#EXTINF:-1 tvg-id="76" tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 tvg-id="76" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影",CHC高清电影
+#EXTINF:-1 tvg-id="77" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影",CHC动作电影
+#EXTINF:-1 tvg-id="78" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-id="78" tvg-name="苏州4K" tvg-logo="https://m.ykimg.com/0130391F455699D2FA556C319FB9C0AA31BA02-2046-EBF3-82F9-5060CA8BA776?x-oss-process=image/resize,w_200" group-title="4K",苏州4K
+#EXTINF:-1 tvg-id="79" tvg-name="苏州4K" tvg-logo="https://m.ykimg.com/0130391F455699D2FA556C319FB9C0AA31BA02-2046-EBF3-82F9-5060CA8BA776?x-oss-process=image/resize,w_200" group-title="4K",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="79" tvg-name="SYFY电影台" tvg-logo="https://5b0988e595225.cdn.sohucs.com/images/20190817/c4de3a5de0b94b38a9c0d93e5b1f5294.jpeg" group-title="电影",SYFY电影台
+#EXTINF:-1 tvg-id="80" tvg-name="SYFY电影台" tvg-logo="https://5b0988e595225.cdn.sohucs.com/images/20190817/c4de3a5de0b94b38a9c0d93e5b1f5294.jpeg" group-title="电影",SYFY电影台
 http://50.7.137.106:8080/SYFY/index.m3u8?token=test
-#EXTINF:-1 tvg-id="80" tvg-name="爱自然" tvg-logo="https://zhengxin-pub.cdn.bcebos.com/mark/6ec7a6c1eeda292e8a6b3836b3ac63d0_fullsize.jpeg" group-title="4K",爱自然频道
+#EXTINF:-1 tvg-id="81" tvg-name="爱自然" tvg-logo="https://zhengxin-pub.cdn.bcebos.com/mark/6ec7a6c1eeda292e8a6b3836b3ac63d0_fullsize.jpeg" group-title="4K",爱自然频道
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="81" tvg-name="电影轮播" tvg-logo="https://img2.baidu.com/it/u=1551478590,91767775&fm=253&fmt=auto&app=138&f=JPEG?w=404&h=486" group-title="电影",电影轮播
+#EXTINF:-1 tvg-id="82" tvg-name="电影轮播" tvg-logo="https://img2.baidu.com/it/u=1551478590,91767775&fm=253&fmt=auto&app=138&f=JPEG?w=404&h=486" group-title="电影",电影轮播
 http://epg.112114.xyz/douyu/2935323
-#EXTINF:-1 tvg-id="82" tvg-name="斗鱼4K" tvg-logo="https://mp.ofweek.com/Upload/News/Img/member27807/201911/201911261208485630.png" group-title="电影",斗鱼4K
+#EXTINF:-1 tvg-id="83" tvg-name="斗鱼4K" tvg-logo="https://mp.ofweek.com/Upload/News/Img/member27807/201911/201911261208485630.png" group-title="4K",斗鱼4K
 http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1 tvg-id="83" tvg-name="斗鱼电影1" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影1
+#EXTINF:-1 tvg-id="84" tvg-name="斗鱼电影1" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影1
 http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 tvg-id="84" tvg-name="斗鱼电影2" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影2
+#EXTINF:-1 tvg-id="85" tvg-name="斗鱼电影2" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影2
 http://epg.112114.xyz/douyu/2516864
-#EXTINF:-1 tvg-id="85" tvg-name="斗鱼电影3" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影3
-http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 tvg-id="86" tvg-name="斗鱼电影4" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影4
+#EXTINF:-1 tvg-id="86" tvg-name="斗鱼电影3" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影3
 http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 tvg-id="87" tvg-name="斗鱼电影5" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影5
+#EXTINF:-1 tvg-id="87" tvg-name="斗鱼电影4" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影4
 http://diyp.112114.xyz/douyu/323876
-#EXTINF:-1 tvg-id="88" tvg-name="斗鱼电影6" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影6
+#EXTINF:-1 tvg-id="88" tvg-name="斗鱼电影5" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影5
 http://epg.112114.xyz/douyu/252802
-#EXTINF:-1 tvg-id="89" tvg-name="斗鱼电影7" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影7
+#EXTINF:-1 tvg-id="89" tvg-name="斗鱼电影6" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影6
 http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 tvg-id="90" tvg-name="斗鱼电影8" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影8
+#EXTINF:-1 tvg-id="90" tvg-name="斗鱼电影7" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影7
 http://epg.112114.xyz/douyu/2436390
-#EXTINF:-1 tvg-id="91" tvg-name="斗鱼电影9" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影9
+#EXTINF:-1 tvg-id="91" tvg-name="斗鱼电影8" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影8
 http://epg.112114.xyz/douyu/218859
-#EXTINF:-1 tvg-id="92" tvg-name="斗鱼电影10" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影10
+#EXTINF:-1 tvg-id="92" tvg-name="斗鱼电影9" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影9
 http://epg.112114.xyz/douyu/9292492
-#EXTINF:-1 tvg-id="93" tvg-name="斗鱼电影11" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影11
+#EXTINF:-1 tvg-id="93" tvg-name="斗鱼电影10" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影10
 http://epg.112114.xyz/douyu/85894
-#EXTINF:-1 tvg-id="94" tvg-name="斗鱼电影12" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影12
+#EXTINF:-1 tvg-id="94" tvg-name="斗鱼电影11" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影11
 http://epg.112114.xyz/douyu/3485629
-#EXTINF:-1 tvg-id="95" tvg-name="斗鱼电影13" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影13
+#EXTINF:-1 tvg-id="95" tvg-name="斗鱼电影12" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影12
 http://epg.112114.xyz/douyu/20415
-#EXTINF:-1 tvg-id="96" tvg-name="斗鱼电影14" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影14
+#EXTINF:-1 tvg-id="96" tvg-name="斗鱼电影13" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影13
 http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 tvg-id="97" tvg-name="斗鱼电影15" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影15
+#EXTINF:-1 tvg-id="97" tvg-name="斗鱼电影14" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影14
 http://diyp.112114.xyz/douyu/9651304
-#EXTINF:-1 tvg-id="100" tvg-name="斗鱼电影18" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影18
+#EXTINF:-1 tvg-id="98" tvg-name="斗鱼电影15" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影15
 http://diyp.112114.xyz/douyu/8814650
-#EXTINF:-1 tvg-id="101" tvg-name="斗鱼电影19" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影19
+#EXTINF:-1 tvg-id="99" tvg-name="斗鱼电影16" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影16
 http://epg.112114.xyz/douyu/413573
-#EXTINF:-1 tvg-id="102" tvg-name="斗鱼电影20" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影20
+#EXTINF:-1 tvg-id="100" tvg-name="斗鱼电影27" tvg-logo="https://hbimg.b0.upaiyun.com/63b44dcf29ca241b73bf510d684a36f4aa557b0f92ed6-9YSeRs_fw658" group-title="电影",斗鱼电影17
 http://diyp.112114.xyz/douyu/122402
